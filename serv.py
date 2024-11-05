@@ -17,3 +17,5 @@ with open(r"H:\from_500GB\new\techworld-with-nana - devops-bootcamp-video/lesson
     f.write(srt)
 
 !translatesubs "H:\from_500GB\new\techworld-with-nana - devops-bootcamp-video/lesson1.srt" "H:\from_500GB\new\techworld-with-nana - devops-bootcamp-video/lesson1ru.srt" --to_lang ru --merge
+
+11111111111111111
